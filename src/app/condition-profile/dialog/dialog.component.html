@@ -1,0 +1,19 @@
+<h1 mat-dialog-title>{{data.title}}</h1>
+<div mat-dialog-content>
+  <p>{{data.message}}</p>
+  <div *ngIf="data.action === 'edit'">
+    <!-- Add form fields to edit the item here -->
+    <mat-form-field appearance="fill">
+      <mat-label>Code</mat-label>
+      <input matInput [(ngModel)]="data.code">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Name</mat-label>
+      <input matInput [(ngModel)]="data.name">
+    </mat-form-field>
+  </div>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancel</button>
+  <button mat-button (click)="onConfirm()">{{data.action === 'edit' ? 'Save' : 'Delete'}}</button>
+</div>

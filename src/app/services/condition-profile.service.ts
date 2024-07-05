@@ -11,12 +11,8 @@ export class ConditionProfileService {
 
   constructor(private restService:RestService) { }
 
-  getConditonProfileById(id:string){
-    return this.restService.get(`${this.url}/${id}`);
-  }
-
-  getAllConditionProfile(){
-    return this.restService.get(this.url);
+  getConditionProfile(id:string){
+    return id ? this.restService.get(`${this.url}/${id}`) : this.restService.get(`${this.url}`);
   }
 
   createConditionProfile(conditionProfile:ConditionProfileDto){
