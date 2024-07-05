@@ -1,0 +1,90 @@
+[
+  {
+    "description": "Cat",
+    "imageUrl": "https://www.freeiconspng.com/thumbs/cat-png/baby-cat-png-12.png",
+    "number1": "020",
+    "number2": "300",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Elephant",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXXLTTyWn-TdEY-wUbkH2mcB1tzk55gCVr0a144A&s",
+    "number1": "010",
+    "number2": "500",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Bird",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGZf_r1myfBx38qtc32WjDB0dsWSvaPRNxw&usqp=CAU",
+    "number1": "030",
+    "number2": "222",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Dog",
+    "imageUrl": "https://freepikpsd.com/file/2019/10/small-dog-rescue-9-Transparent-Images.png",
+    "number1": "040",
+    "number2": "450",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Turtle",
+    "imageUrl": "https://starpng.com/public/uploads/preview/turtle-png-transparent-background-image-for-free-download-4-11582401541sourobyksa.png",
+    "number1": "052",
+    "number2": "487",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Butterfly",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ33wY6GXxikjHxJUMlud23nsIvD6SGj3ijnZWLsHY&s",
+    "number1": "068",
+    "number2": "977",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Rabbit",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrcJj-Tmo1qg0xDyKmqquZ5WF-qqb0x5CY6mCtlS1&s",
+    "number1": "070",
+    "number2": "888",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Buffalo",
+    "imageUrl": "https://i.pinimg.com/originals/17/65/30/17653037d80a2ba7a47a8accdc3df3c3.png",
+    "number1": "089",
+    "number2": "651",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Tiger",
+    "imageUrl": "https://www.pngpix.com/wp-content/uploads/2021/05/PNGPIX-COM-tiger-PNG-Transparent-Image.png",
+    "number1": "090",
+    "number2": "278",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Bear",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi2KvrHRmC_yj4CW-3HcuW9oLMhPE-AAZXIq-z-9M&s",
+    "number1": "170",
+    "number2": "819",
+    "isSelected1": false,
+    "isSelected2": false
+  },
+  {
+    "description": "Cow",
+    "imageUrl": "http://atlas-content-cdn.pixelsquid.com/stock-images/holstein-cow-YeX6X87-600.jpg",
+    "number1": "111",
+    "number2": "966",
+    "isSelected1": false,
+    "isSelected2": false
+  }
+]

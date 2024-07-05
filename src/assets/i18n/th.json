@@ -1,0 +1,108 @@
+{
+  "TEST_LANG": "ประเทศไทย",
+  "main_wallet": "เงินที่เหลือ",
+  "betclosetime": "เดิมพันปิด",
+
+  "betHistory": "ประวัติการเดิมพัน",
+  "3D_result": "ผลลัพธ์ 3 มิติ",
+  "2D_result": "ผลลัพธ์ 2 มิติ",
+  "bet_amount": "จำนวนเงินเดิมพัน",
+  "bet_time": "เวลาเดิมพัน",
+
+  "betDetails": "รายละเอียดการเดิมพัน",
+
+  "gold": "ทอง",
+  "silver": "เงิน",
+  "package" : "แพคเกจ",
+  "package-desc":"แพ็คเกจ 2D VIP เป็นแพ็คเกจพิเศษสำหรับผู้เล่น VIP แบบ 2D ซึ่งจะทำให้คุณชนะมากถึง 96 อัตรา",
+  "choose-package":"กรุณาเลือกแพ็กเกจเพื่อเดิมพัน",
+  "package-title" : "เลือก 5 หมายเลข แต่ละหมายเลขเดิมพัน 10,000 MMK",
+  "gold-package-subtitle" : "มี 10 แพ็คเกจต่อส่วน 9 แพ็คเกจมีการเดิมพัน",
+  "gold-package" : "ทอง แพคเกจ",
+  "silver-package" : "เงิน แพคเกจ",
+  "silver-package-subtitle" : "มี 10 แพ็คเกจต่อส่วน 10 แพ็คเกจมีการเดิมพัน",
+  "sold-out" : " ขายหมดแล้ว ",
+  "bet-records" : "บันทึกการเดิมพัน",
+  "previous-section" : "ส่วนก่อนหน้า",
+  "current-section" : "มาตราปัจจุบัน",
+
+  "bet_amt": "Bet",
+  "win_amt": "Win",
+
+
+  "holiday": "ฮอลิเดย์",
+
+  "2Dround":"กลม",
+  "amountHint": "ปริมาณเดิมพัน (ขั้นต่ำ 100 Ks)",
+  "bet_color_meaning": "ความหมายสี",
+
+  "big": "ใหญ่",
+  "small": "เล็ก",
+  "odd": "แปลก",
+  "even": "พหูพจน์",
+  "bro" : "พี่ชาย",
+  "ee": "EE",
+  "eo": "EO",
+  "oe": "OE",
+  "oo": "OO",
+  "twin": "แฝด",
+  "brake": "เบรค",
+  "selection_number": "20 หมายเลขคัดเลือก",
+  "tail": "หาง",
+  "head": "ศีรษะ",
+  "single_double_size": "Single and Double Size",
+
+  "constellation": "กลุ่มดาว 07, 18, 24, 35, 69",
+  "constellationR": "กลุ่มดาว R 70, 81, 42, 53, 96",
+  "power": "เพาเวอร์ 05, 16, 27, 38, 49",
+  "powerR": "เพาเวอร์ R 50, 61, 72, 83, 94",
+  "thai_constellation": "กลุ่มดาวไทย 07, 19, 23, 48, 56",
+  "thai_constellationR": "กลุ่มดาวไทย R 70, 91, 32, 84, 65",
+  "thai_power": "ไทย เพาเวอร์ 09, 13, 26, 47, 58",
+  "thai_powerR": "ไทย เพาเวอร์ R 90, 31, 62, 74, 85",
+  "constellation_title": "พลังกลุ่มดาว",
+
+  "2d-bet-list": "รายการเดิมพัน 2 มิติ",
+
+
+  "history": "ประวัติศาสตร์",
+  "winner": "ผู้ชนะ",
+  "result": "ผลลัพธ์",
+
+
+  "dream_book": "ฝัน",
+  "quick_select": "เลือกด่วน",
+  "threed_hot_title": "โอกาส",
+  "threed_round": "กลม",
+  "threed_select": "เลือก",
+
+  "threed_hot_desc": "ตัวเลขต่อไปนี้เป็นที่นิยมในหมู่นักพนันและเต็มไปด้วยข้อจำกัดในการเดิมพัน",
+  "bet_limit_between80to99": "80% ถึง 99%",
+  "bet_limit_above90": "จำนวนเงินเดิมพันเต็ม",
+
+
+  "3d-bet-list" : "รายการเดิมพัน 3 มิติ",
+  "add": "เพิ่ม",
+  "edit": "แก้ไข",
+  "delete": "ลบ",
+  "s/n": "S/N",
+  "bet_list_number": "ตัวเลข",
+  "bet_list_amount": "จำนวนเงิน",
+  "total_amount": "จำนวนเงินทั้งหมด",
+  "balance": "สมดุล",
+  "reselect": "เลือกใหม่",
+  "bet": "เดิมพัน",
+  "cancel": "ยกเลิก",
+  "submit": "ส่ง",
+
+
+  "3Dconfirm_bet_list": "รายการยืนยัน 3 มิติ",
+  "section" : "มาตรา",
+  "odds": "อัตราต่อรอง",
+  "low_balance_fill": "คลิกที่นี่หากคุณมียอดคงเหลือน้อย",
+  "confirm": "ยืนยัน",
+
+
+  "bet_success": "เดิมพันสำเร็จ",
+  "bet_done": "เสร็จแล้ว"
+}

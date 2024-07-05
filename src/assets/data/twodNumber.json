@@ -1,0 +1,802 @@
+[
+  {
+    "number": "00",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "01",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "02",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 62
+  },
+  {
+    "number": "03",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 36
+  },
+  {
+    "number": "04",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 90
+  },
+  {
+    "number": "05",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 45
+  },
+  {
+    "number": "06",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 72
+  },
+  {
+    "number": "07",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "08",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "09",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 97
+  },
+  {
+    "number": "10",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "11",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "12",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "13",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "14",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 85
+  },
+  {
+    "number": "15",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "16",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "17",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "18",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "19",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 82
+  },
+  {
+    "number": "20",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "21",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "22",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "23",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 95
+  },
+  {
+    "number": "24",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "25",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "26",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "27",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "28",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "29",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "30",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "31",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "32",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 87
+  },
+  {
+    "number": "33",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "34",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "35",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "36",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "37",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "38",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "39",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "40",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "41",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "42",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "43",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "44",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "45",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 60
+  },
+  {
+    "number": "46",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "47",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "48",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "49",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "50",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 70
+  },
+  {
+    "number": "51",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "52",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "53",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "54",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "55",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "56",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "57",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "58",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "59",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "60",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "61",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "62",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "63",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "64",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "65",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "66",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "67",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "68",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "69",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "70",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "71",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "72",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "73",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "74",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "75",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "76",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "77",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "78",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "79",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "80",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 20
+  },
+  {
+    "number": "81",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "82",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "83",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "84",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "85",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "86",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "87",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "88",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "89",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "90",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "91",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "92",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "93",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "94",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 40
+  },
+  {
+    "number": "95",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "96",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 100
+  },
+  {
+    "number": "97",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 82
+  },
+  {
+    "number": "98",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 72
+  },
+  {
+    "number": "99",
+    "selected": false,
+    "amount": 0,
+    "isChecked": false,
+    "reverseStatus": false,
+    "betLimitColor" : 82
+  }
+]

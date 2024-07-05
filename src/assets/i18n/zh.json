@@ -1,0 +1,107 @@
+{
+  "TEST_LANG": "中文",
+  "main_wallet": "主钱包",
+  "betclosetime": "关彩倒计时",
+
+  "betHistory": "下注历史记录",
+  "3D_result": "3D 中奖号码",
+  "2D_result": "2D 中奖号码",
+  "bet_amount": "投注金额",
+  "bet_time": "投注时间",
+  "betDetails" : "投注詳情",
+
+  "gold": "黄金",
+  "silver": "白银",
+  "package" : "包裹",
+  "package-desc":"2D VIP套餐是转为2D VIP用戶而设，让您赢取高达 96 倍的奖金",
+  "choose-package":"请选择一个套餐进行下注",
+  "package-title":"選擇5個號碼，每個投注10,000 MMK",
+  "gold-package-subtitle" : "有10 个套餐供您选择 9 套餐已下注",
+  "gold-package" : "黄金 套餐",
+  "silver-package" : "白银 套餐",
+  "silver-package-subtitle" : "有10 个套餐供您选择 10 套餐已下注",
+  "sold-out" : "售罄",
+  "bet-records" : "投註記錄",
+  "previous-section" : "上一節",
+  "current-section" : "當前部分",
+
+  "bet_amt": "Bet",
+  "win_amt": "Win",
+
+
+  "holiday": "关彩假日",
+
+  "2Dround":"回合",
+  "amountHint": "输入投注金额（最少100Ks）",
+  "bet_color_meaning": "颜色说明",
+
+  "big": "大",
+  "small": "小",
+  "odd": "奇数",
+  "even": "偶数",
+  "bro" : "兄弟",
+  "ee": "偶偶",
+  "eo": "偶奇",
+  "oe": "奇偶",
+  "oo": "奇奇",
+  "twin": "双倍",
+  "brake": "制動",
+  "selection_number": "一次选20个号码",
+  "tail": "尾数",
+  "head": "头数",
+  "single_double_size": "Single and Double Size",
+
+  "constellation": "Constellation 07, 18, 24, 35, 69",
+  "constellationR": "Constellation R 70, 81, 42, 53, 96",
+  "power": "Power 05, 16, 27, 38, 49",
+  "powerR": "Power R 50, 61, 72, 83, 94",
+  "thai_constellation": "Thai Constellation 07, 19, 23, 48, 56",
+  "thai_constellationR": "Thai Constellation R 70, 91, 32, 84, 65",
+  "thai_power": "Thai Power 09, 13, 26, 47, 58",
+  "thai_powerR": "Thai Power R 90, 31, 62, 74, 85",
+  "constellation_title": "Constellation Power",
+
+  "2d-bet-list": "2D投注列表",
+
+
+  "history": "历史记录",
+  "winner": "中奖名单",
+  "result": "中奖号码",
+
+
+  "dream_book": "梦书",
+  "quick_select": "快选",
+  "threed_hot_title": "号码热度",
+  "threed_round": "回合",
+  "threed_select": "选择",
+
+  "threed_hot_desc": "以下號碼為熱門號碼和封閉號碼",
+  "bet_limit_between80to99": "80% ～  99% 之间",
+  "bet_limit_above90": "下注已满",
+
+
+  "3d-bet-list" : "3D投注列表",
+  "add": "新增",
+  "edit" : "修改",
+  "delete": "刪除",
+  "s/n": "序号",
+  "bet_list_number": "号码",
+  "bet_list_amount": "金额",
+  "total_amount": "合计金额",
+  "balance": "余额 ",
+  "reselect": "重新选",
+  "bet": "投注",
+  "cancel": "取消",
+  "submit": "提交",
+
+
+  "3Dconfirm_bet_list": "3D確認列表",
+  "section" : "时间段",
+  "odds": "倍数",
+  "low_balance_fill": "如果您的餘額不足，請單擊此處",
+  "confirm": "确定",
+
+
+  "bet_success": "投注成功",
+  "bet_done": "完成"
+}
