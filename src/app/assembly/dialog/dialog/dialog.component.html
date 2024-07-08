@@ -1,0 +1,35 @@
+<h1 mat-dialog-title>{{data.title}}</h1>
+<div mat-dialog-content>
+  <p>{{data.message}}</p>
+  <div *ngIf="data.action === 'edit'">
+    <!-- Add form fields to edit the item here -->
+    <mat-form-field appearance="fill">
+      <mat-label>Assembly Point</mat-label>
+      <input matInput [(ngModel)]="data.assemblyPoint">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Lat</mat-label>
+      <input matInput [(ngModel)]="data.lat">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Long</mat-label>
+      <input matInput [(ngModel)]="data.long">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Ip Address</mat-label>
+      <input matInput [(ngModel)]="data.ipAddress">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Device Type</mat-label>
+      <input matInput [(ngModel)]="data.deviceType">
+    </mat-form-field>
+    <mat-form-field appearance="fill">
+      <mat-label>Status</mat-label>
+      <input matInput [(ngModel)]="data.status">
+    </mat-form-field>
+  </div>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onCancel()">Cancel</button>
+  <button mat-button (click)="onConfirm()">{{data.action === 'edit' ? 'Save' : 'Delete'}}</button>
+</div>

@@ -1,0 +1,101 @@
+<!--
+<p>assembly works!</p>
+<table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Assembly Point</th>
+        <th>Latitude</th>
+        <th>Longitude</th>
+        <th>IP Address</th>
+        <th>Device Type</th>
+        <th>Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let assembly of assemblies">
+        <td>{{ assembly.id }}</td>
+        <td>{{ assembly.assemblyPoint }}</td>
+        <td>{{ assembly.lat }}</td>
+        <td>{{ assembly.long }}</td>
+        <td>{{ assembly.ipAddress }}</td>
+        <td>{{ assembly.deviceType }}</td>
+        <td>{{ assembly.status }}</td>
+      </tr>
+    </tbody>
+  </table>
+ --> 
+
+
+ <div class="container">
+    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+      <!-- Code Column -->
+      <ng-container matColumnDef="no">
+        <th mat-header-cell *matHeaderCellDef>No</th>
+        <td mat-cell *matCellDef="let element">{{ element.id }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="assemblyPoint">
+        <th mat-header-cell *matHeaderCellDef>Assembly Point</th>
+        <td mat-cell *matCellDef="let element">{{ element.assemblyPoint }}</td>
+      </ng-container>
+  
+      <!-- Name Column -->
+      <ng-container matColumnDef="lat">
+        <th mat-header-cell *matHeaderCellDef>Lat</th>
+        <td mat-cell *matCellDef="let element">{{ element.lat }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="long">
+        <th mat-header-cell *matHeaderCellDef>Long</th>
+        <td mat-cell *matCellDef="let element">{{ element.long }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="ipAddress">
+        <th mat-header-cell *matHeaderCellDef>Ip Address</th>
+        <td mat-cell *matCellDef="let element">{{ element.ipAddress }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="deviceType">
+        <th mat-header-cell *matHeaderCellDef>Device Type</th>
+        <td mat-cell *matCellDef="let element">{{ element.deviceType }}</td>
+      </ng-container>
+
+      <ng-container matColumnDef="status">
+        <th mat-header-cell *matHeaderCellDef>Status</th>
+        <td mat-cell *matCellDef="let element">{{ element.status }}</td>
+      </ng-container>
+  
+      <!-- Actions(Delete and Edit) C-->
+      <ng-container matColumnDef="actions">
+        <th mat-header-cell *matHeaderCellDef>Actions</th>
+        <td mat-cell *matCellDef="let element" class="action-buttons">
+          <button
+            mat-stroked-button
+            color="primary"
+            (click)="onEdit(element.id, element)"
+            class="mx-1"
+          >
+            Edit
+          </button>
+          <button
+            mat-stroked-button
+            color="warn"
+            (click)="onDelete(element.assemblyPoint)"
+          >
+            Delete
+          </button>
+        </td>
+      </ng-container>
+  
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+    </table>
+
+    <mat-paginator
+      [pageSizeOptions]="[1, 2, 3]"
+      showFirstLastButtons
+      aria-label="Select page of condition profiles">
+    </mat-paginator>
+
+  </div>
